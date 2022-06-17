@@ -1,0 +1,29 @@
+.fig1 {
+    margin-left: -142px;
+   overflow: hidden;
+    margin-bottom: 40px;
+    width: 350px;
+    height: 350px;
+    background: #012192;
+    clip-path: circle(50% at 50% 50%);
+    /*transform: rotate(45deg);*/
+}
+.fig {
+
+
+}
+.fig2 {
+    width: 350px;
+    height: 350px;
+    background: #6918B4;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+
+
+}
+
+
+.hero {
+    width: 100%;
+
+    background: #001355;
+}
